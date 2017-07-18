@@ -9,13 +9,13 @@ package OnlineShoppingStore;
  *
  * @author ARIT
  */
-public class Item {
+public class Item1 {
     private int id;
     private String listItem;
     private double price;
     private int qty;
     
-    public Item(int id,double price,String listItem){
+    public Item1(int id,double price,String listItem){
     
         this.id = id ;
         this.price = price;        
